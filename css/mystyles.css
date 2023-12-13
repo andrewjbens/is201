@@ -1,3 +1,9 @@
 .dif-bg{
-    background-color: navy !important;
+    background-color: royalblue !important;
+}
+.dif-text{
+    color: royalblue !important;
+}
+.new-font{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

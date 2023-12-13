@@ -1,0 +1,61 @@
+body{
+    background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/bush.png);
+    /* background-size: cover; */
+    background-repeat: repeat;
+    margin: 20px !important;
+}
+/* h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:50px;
+    color: dimgray;
+} */
+img{
+    width: 48.4%;
+    border: solid wheat 3px;
+}
+.tallimg{
+    width: 20%;
+}
+.tallimg1{
+    width: 27.6%;
+}
+
+.common{
+    position: absolute;
+    padding: 5px;
+}
+.footer{
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    text-align: center;
+    font-weight: bold;
+    color: crimson;
+}
+.header{
+    width: 100%;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size:50px;
+    color: dimgray;
+    font-weight: bolder;
+}
+.nav{
+    position: relative;
+    float: right;
+    z-index: 1;
+}
+.mainbody{
+    position: 60px;
+    top:100px;
+    width: 100%;
+    padding-left: 4px;
+}
+.listtxt{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-weight: bold;
+}
